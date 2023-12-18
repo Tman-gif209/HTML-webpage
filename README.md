@@ -1,2 +1,2 @@
 # HTML-webpage
-A webpage that i have created using HTML and bootstrap
+A webpage that I have created using HTML and bootstrap
